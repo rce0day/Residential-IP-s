@@ -1,4 +1,4 @@
-# Residential-IP-s
+# Residential-IPs
 List of residential IP's in jsonl format for statistical analysis and or placeholder data. (Scraped from a residential proxy provider)
 
 - Format: (Some data may be "error" which means the API used did not have data stored for that specific value.)
